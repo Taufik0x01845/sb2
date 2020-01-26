@@ -32,7 +32,7 @@ class Config(object):
 
     APP_VERSION = {
         'ANDROID': '8.14.2',
-        'IOS': '8.14.2',
+        'IOS': '9.18.1' #8.14.2',
         'ANDROIDLITE': '2.1.0',
         'BIZANDROID': '1.7.2',
         'BIZIOS': '1.7.5',
